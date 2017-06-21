@@ -8,4 +8,7 @@ var App = require('./components/App')
 // 3) Event
 
 
-ReactDom.render(<App name="Santosh"/>, document.getElementById('app'))
+ReactDom.render(
+  <App name="Santosh"/>,
+  document.getElementById('app')
+)
