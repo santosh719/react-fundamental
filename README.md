@@ -1,4 +1,20 @@
 
 This is a "Github Battle App". Enter in two Github usernames, and it'll declare a winner. 
 
-<img src="https://cloud.githubusercontent.com/assets/2933430/26085553/7dac7a1e-39a2-11e7-830a-9011505b5958.png" width="800">
+### Areas covered ### 
+* Javascript basics
+  * this, .call, .apply, .bind
+  * Array.map, Array.reduce, Array.filter
+* React basics
+  * Composition
+  * JSX, Virtual DOM
+  * state, props, children
+  * Stateless functional components
+* React router
+  * Declarative routing
+  * Route matching
+  * Query params
+* Webpack
+  * Configuration
+  * HTMLWebpackPluginConfig
+  * Loaders
