@@ -1,7 +1,7 @@
 
 This is a "Github Battle App". Enter in two Github usernames, and it'll declare a winner. 
 
-### Areas covered ### 
+#### Areas covered #### 
 * Javascript basics
   * this, .call, .apply, .bind
   * Array.map, Array.reduce, Array.filter
